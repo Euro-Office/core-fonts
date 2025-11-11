@@ -1,0 +1,23 @@
+name: Build and Upload Fonts
+
+on:
+    push:
+        branches:
+            - main
+    pull_request:
+
+jobs:
+    build:
+        runs-on: self-hosted
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+
+            - name: Run make allfontsgen
+              run: make allfontsgen
+
+            - name: Upload deploy folder
+              uses: actions/upload-artifact@v5
+              with:
+                name: deploy-artifacts
+                path: deploy/
