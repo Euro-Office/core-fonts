@@ -1,24 +1,49 @@
-Gujarati Fonts (padmaa, Rekha)
+Free Bangla Font Project Fonts
 ==============================
 
-Files covered: padmaa.ttf, Rekha.ttf
+Files covered: ani.ttf, JamrulNormal.ttf, LikhanNormal.ttf, mitra.ttf,
+MuktiNarrow.ttf, MuktiNarrowBold.ttf
 
-Rekha.ttf
-    Copyright (C) 2004-2007 MagNet Technologies Pvt. Ltd., Mumbai, India
-    <team@utkarsh.org>. http://www.utkarsh.org
-    Contributors: Ankur Patel, Ankit Patel, Atit Patel, Bhavin Shah,
-    Kartik Mistry, Khushbu Shah, Sweta Kothari.
+License: GNU General Public License. Jamrul and Likhan are released under
+version 2 or any later version (SPDX: GPL-2.0-or-later); Ani, MitraMono and
+Mukti Narrow are released under the GNU GPL without a version being stated in
+the font files, and are distributed by Debian and others under the GPL
+version 2. The full text of version 2 follows.
 
-padmaa.ttf
-    Glyphs (R) Cyberscape Multimedia Ltd., Bangalore, India.
-    Converted to OTF by the IndicTrans Team, Powai, Mumbai, led by
-    Prof. Jitendra Shah. Maintained by Monika Shah and Sonali Sonania of the
-    janabhaaratii Team, C-DAC, Mumbai. Released under the GPL by
-    Dr. Alka Irani and Prof. Jitendra Shah, janabhaaratii Team, C-DAC,
-    Mumbai. http://www.janabhaaratii.org.in
+Upstream project: https://www.nongnu.org/freebangfont/
 
-License: GNU General Public License version 2 or later
-(SPDX: GPL-2.0-or-later).
+Per-font copyright and license notices as recorded in the font files
+--------------------------------------------------------------------
+
+Jamrul (JamrulNormal.ttf)
+    Copyright (C) Deepayan Sarkar <deepayan@bengalinux.org>, Free Software
+    Foundation, Inc. (non-Bengali glyphs).
+    GNU General Public License, version 2 (or at your option, any later
+    version). http://www.gnu.org/licenses/gpl.html
+
+Likhan (LikhanNormal.ttf)
+    Copyright Deepayan Sarkar <deepayan@bengalinux.org>
+    License: GPL version 2 (or later, at your option).
+
+Mukti Narrow (MuktiNarrow.ttf, MuktiNarrowBold.ttf)
+    GNU GPL (C) Mukta Bangla Font Project 2002-2003. Designed by
+    Dr Anirban Mitra.
+    "You are allowed to distribute or use this software in as many computer
+    systems as you wish, with or without modifications provided you transfer
+    these rights with the software. You are also allowed to use this
+    software in your GNU and/or commercial programs. This software is
+    distributed in good faith that it will be useful to you but WITHOUT any
+    warranty."
+    http://www.gnu.org/copyleft/gpl.htm
+
+Ani (ani.ttf) and MitraMono (mitra.ttf)
+    (C) Dr Anirban Mitra 2002.
+    "You are allowed to distribute or use this software in as many computer
+    systems as you wish, with or without modifications provided you transfer
+    these rights with the software. You are also allowed to use this
+    software in your GNU and/or commercial programs. This software is
+    distributed in good faith that it will be useful to you but WITHOUT any
+    warranty. Full text of the GNU license is available at www.gnu.org."
 
 
 ========================================================================

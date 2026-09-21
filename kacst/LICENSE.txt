@@ -1,24 +1,24 @@
-Gujarati Fonts (padmaa, Rekha)
-==============================
+KACST Arabic Fonts
+==================
 
-Files covered: padmaa.ttf, Rekha.ttf
+Files covered: KacstArt.ttf, KacstBook.ttf, KacstDecorative.ttf,
+KacstDigital.ttf, KacstFarsi.ttf, KacstLetter.ttf, KacstNaskh.ttf,
+KacstOffice.ttf, KacstPen.ttf, KacstPoster.ttf, KacstQurn.ttf,
+KacstScreen.ttf, KacstTitle.ttf, KacstTitleL.ttf, mry_KacstQurn.ttf
 
-Rekha.ttf
-    Copyright (C) 2004-2007 MagNet Technologies Pvt. Ltd., Mumbai, India
-    <team@utkarsh.org>. http://www.utkarsh.org
-    Contributors: Ankur Patel, Ankit Patel, Atit Patel, Bhavin Shah,
-    Kartik Mistry, Khushbu Shah, Sweta Kothari.
+Copyright 2002-2009 King Abdulaziz City for Science and Technology (KACST).
+mry_KacstQurn.ttf: Copyright (C) 2006 Meor Ridzuan Meor Yahaya; includes
+Arabic glyphs donated under the GPL by KACST and Latin glyphs donated under
+the GPL by URW Design and Development.
 
-padmaa.ttf
-    Glyphs (R) Cyberscape Multimedia Ltd., Bangalore, India.
-    Converted to OTF by the IndicTrans Team, Powai, Mumbai, led by
-    Prof. Jitendra Shah. Maintained by Monika Shah and Sonali Sonania of the
-    janabhaaratii Team, C-DAC, Mumbai. Released under the GPL by
-    Dr. Alka Irani and Prof. Jitendra Shah, janabhaaratii Team, C-DAC,
-    Mumbai. http://www.janabhaaratii.org.in
+License: GNU General Public License, version 2 (SPDX: GPL-2.0-only).
 
-License: GNU General Public License version 2 or later
-(SPDX: GPL-2.0-or-later).
+The notice carried inside the font files reads:
+
+    KACST holds the copyright of the included Arabic font which is donated
+    under GPL by KACST.
+
+Upstream: https://www.arabeyes.org/ (Khotot project)
 
 
 ========================================================================

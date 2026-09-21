@@ -1,24 +1,57 @@
-Gujarati Fonts (padmaa, Rekha)
-==============================
+WenQuanYi Zen Hei
+=================
 
-Files covered: padmaa.ttf, Rekha.ttf
+File covered: wqy-zenhei.ttc
 
-Rekha.ttf
-    Copyright (C) 2004-2007 MagNet Technologies Pvt. Ltd., Mumbai, India
-    <team@utkarsh.org>. http://www.utkarsh.org
-    Contributors: Ankur Patel, Ankit Patel, Atit Patel, Bhavin Shah,
-    Kartik Mistry, Khushbu Shah, Sweta Kothari.
+Copyright 2007-2009 Qianqian Fang and The WenQuanYi Project Board of Trustees
+Copyright 1998-2004 Koanughi Un
+Copyright 1999-2004 Tsong-Min Wu, Tsong-Huey Wu
+Copyright 2005 Tsong-Min Wu, Tsong-Huey Wu and Edward G.J. Lee
+Copyright 2004 Firefly
+Copyright 2002-2008 M+ FONTS PROJECT
 
-padmaa.ttf
-    Glyphs (R) Cyberscape Multimedia Ltd., Bangalore, India.
-    Converted to OTF by the IndicTrans Team, Powai, Mumbai, led by
-    Prof. Jitendra Shah. Maintained by Monika Shah and Sonali Sonania of the
-    janabhaaratii Team, C-DAC, Mumbai. Released under the GPL by
-    Dr. Alka Irani and Prof. Jitendra Shah, janabhaaratii Team, C-DAC,
-    Mumbai. http://www.janabhaaratii.org.in
+License: GNU General Public License version 2 with the font embedding
+exception, plus the M+ FONTS License for the glyphs merged from the M+ fonts
+(SPDX: GPL-2.0 WITH Font-exception-2.0 AND mplus).
 
-License: GNU General Public License version 2 or later
-(SPDX: GPL-2.0-or-later).
+GPL v2 with font embedding exception
+------------------------------------
+
+    This font is free software; you can redistribute it and/or modify it
+    under the terms of the GNU General Public License as published by the
+    Free Software Foundation; either version 2 of the License.
+
+    This font is distributed in the hope that it will be useful, but WITHOUT
+    ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+    FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
+    more details.
+
+    You should have received a copy of the GNU General Public License along
+    with this font; if not, write to the Free Software Foundation, Inc.,
+    51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+
+    As a special exception, if you create a document which uses this font,
+    and embed this font or unaltered portions of this font into the
+    document, this font does not by itself cause the resulting document to
+    be covered by the GNU General Public License. This exception does not
+    however invalidate any other reasons why the document might be covered
+    by the GNU General Public License. If you modify this font, you may
+    extend this exception to your version of the font, but you are not
+    obligated to do so. If you do not wish to do so, delete this exception
+    statement from your version.
+
+    See also:
+    http://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html#FontException
+
+M+ FONTS License (applies to the glyphs merged from the M+ fonts)
+-----------------------------------------------------------------
+
+    These fonts are free software.
+    Unlimited permission is granted to use, copy, and distribute it, with or
+    without modification, either commercially and noncommercially.
+    THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
+
+Upstream: http://wenq.org/
 
 
 ========================================================================
