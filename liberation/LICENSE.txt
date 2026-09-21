@@ -9,8 +9,16 @@ LIBERATION is a trademark of Red Hat, Inc.
 Liberation Sans Narrow: Copyright 2010 Oracle and/or its affiliates.
 
 License: GNU General Public License version 2 with the exceptions stated in
-the Liberation font license agreement reproduced below
-(SPDX: GPL-2.0-only WITH Liberation-font-exception).
+the Liberation font license agreement reproduced below.
+
+There is no SPDX-listed exception identifier for the Liberation 1.x exception:
+the SPDX exception list contains only two font-related ids, Font-exception-2.0
+and PS-or-PDF-font-exception-20170817, and neither matches this agreement. If
+you need a machine-readable expression, use
+    GPL-2.0-only WITH LicenseRef-Liberation-font-exception
+and carry this file as the referenced text. Do not use a bare
+"Liberation-font-exception" — tooling will either reject it or silently drop the
+exception, and the second failure mode produces output that still looks valid.
 
 Note: this applies to Liberation 1.x, which is the version shipped here
 (font version 1.07.4). Liberation 2.00.0 and later are licensed under the

@@ -12,7 +12,10 @@ Copyright 2002-2008 M+ FONTS PROJECT
 
 License: GNU General Public License version 2 with the font embedding
 exception, plus the M+ FONTS License for the glyphs merged from the M+ fonts
-(SPDX: GPL-2.0 WITH Font-exception-2.0 AND mplus).
+(SPDX: GPL-2.0-only WITH Font-exception-2.0 AND mplus). Note that bare
+"GPL-2.0" is deprecated in the SPDX licence list in favour of the explicit
+-only / -or-later forms; the WenQuanYi notice says "either version 2 of the
+License" with no or-later clause, so -only is the correct form here.
 
 GPL v2 with font embedding exception
 ------------------------------------

@@ -11,12 +11,41 @@ mry_KacstQurn.ttf: Copyright (C) 2006 Meor Ridzuan Meor Yahaya; includes
 Arabic glyphs donated under the GPL by KACST and Latin glyphs donated under
 the GPL by URW Design and Development.
 
-License: GNU General Public License, version 2 (SPDX: GPL-2.0-only).
+License: GNU General Public License. Upstream states no version.
 
-The notice carried inside the font files reads:
+What the files actually say: fourteen of the fifteen binaries carry name record
+13 = "GPL" (bare, no version) and record 14 =
+http://www.gnu.org/copyleft/gpl.html, which today redirects to GPLv3.
+mry_KacstQurn.ttf carries neither record; its only statement is the copyright
+notice quoted below. No version number appears anywhere in any of the files.
 
     KACST holds the copyright of the included Arabic font which is donated
     under GPL by KACST.
+
+Because upstream specified no version, GPL version 2 section 9 applies:
+
+    If the Program does not specify a version number of this License, you may
+    choose any version ever published by the Free Software Foundation.
+
+The GPL version 2 text is included below because it is the version this
+project elected when adding this file (Euro-Office, 2026). That election binds
+nobody downstream: anyone receiving these files may equally elect any other GPL
+version under the clause above. No SPDX expression is asserted here, because
+any version-pinned expression would misstate an upstream grant that is
+versionless.
+
+PLEASE READ BEFORE REDISTRIBUTING:
+Debian bug #1041017 ("fonts-kacst: unclear licensing status, possibly
+non-free", severity serious, filed 2023-07-14) covers exactly this family.
+Khaled Hosny, who prepared the last versions of these fonts, has said he is no
+longer confident of their legal status: they vanished from the KACST website,
+attempts to reach anyone connected with them failed, and they appear to be
+clones of non-free fonts. LibreOffice removed them. Debian removed the
+fonts-kacst package from unstable on 2025-10-31 (version 2.01+mry-15+rm). The
+same dispute is recorded for the two-file kacst-one family in this repository
+under bug #1147180, which explicitly notes it "is also affected by #1041017".
+If Euro-Office ships commercially, this family and kacst-one should be reviewed
+together, and dropping both is a defensible outcome.
 
 Upstream: https://www.arabeyes.org/ (Khotot project)
 

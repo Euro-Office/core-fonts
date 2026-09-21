@@ -12,7 +12,6 @@ Created by:
   Sandeep Shedmake <sandeep.shedmake@gmail.com>
   Bageshri Salvi <sbageshri@gmail.com>
   Pravin Satpute <pravin.d.s@gmail.com>
-Samyak-Malayalam additionally modified by Hiran Venugopalan <hiran.v@gmail.com>.
 
 License: GNU General Public License version 3 or later, with the GNU font
 embedding exception (SPDX: GPL-3.0-or-later WITH Font-exception-2.0).

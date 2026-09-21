@@ -4,11 +4,28 @@ Free Bangla Font Project Fonts
 Files covered: ani.ttf, JamrulNormal.ttf, LikhanNormal.ttf, mitra.ttf,
 MuktiNarrow.ttf, MuktiNarrowBold.ttf
 
-License: GNU General Public License. Jamrul and Likhan are released under
-version 2 or any later version (SPDX: GPL-2.0-or-later); Ani, MitraMono and
-Mukti Narrow are released under the GNU GPL without a version being stated in
-the font files, and are distributed by Debian and others under the GPL
-version 2. The full text of version 2 follows.
+License: GNU General Public License.
+
+Jamrul and Likhan state a version: both say GPL version 2 or, at your option,
+any later version (SPDX: GPL-2.0-or-later).
+
+Ani, MitraMono and Mukti Narrow state no version. Mukti Narrow's records name
+the GPL and link to www.gnu.org/copyleft/gpl.htm; Ani's and MitraMono's records
+say only "GNU" and point at www.gnu.org for the full text, without naming the
+GPL as such. The text of GPL version 2 is supplied below because that is the
+version this project elected when adding this file (Euro-Office, 2026), on the
+basis of GPL version 2 section 9, which lets the recipient of a versionless
+grant choose any version the FSF has published. Downstream recipients may
+elect differently.
+
+Do not cite Debian for these three. Debian's fonts-beng-extra package ships
+newer, relicensed upstream releases under different filenames — Ani.ttf,
+Mukti.ttf, MitraMono.ttf — whereas the binaries here are the 2002-2003
+versions (ani.ttf, MuktiNarrow.ttf, mitra.ttf) that predate that relicensing.
+Debian's current copyright file describes those newer files, not these, and
+records GPL-3+-with-font-exception for Ani and Mukti and
+GPL-2+-with-font-exception for MitraMono. It is not evidence about the files in
+this directory.
 
 Upstream project: https://www.nongnu.org/freebangfont/
 
@@ -37,7 +54,9 @@ Mukti Narrow (MuktiNarrow.ttf, MuktiNarrowBold.ttf)
     http://www.gnu.org/copyleft/gpl.htm
 
 Ani (ani.ttf) and MitraMono (mitra.ttf)
-    (C) Dr Anirban Mitra 2002.
+    (C) Dr Anirban Mitra 2002. Note that neither binary contains the string
+    "GPL": record 13 opens "GNU (C) Dr Anirban Mitra" and refers to "the GNU
+    license", and record 0 says only "Free Software".
     "You are allowed to distribute or use this software in as many computer
     systems as you wish, with or without modifications provided you transfer
     these rights with the software. You are also allowed to use this

@@ -18,9 +18,13 @@ The licensing status of the KacstOne fonts is disputed. Debian bug #1147180
 ("fonts-kacst-one: unclear licensing status, possibly non-free") records that
 one of the upstream authors is no longer confident the fonts are free
 software, that the fonts have disappeared from the KACST website, and that
-they were removed from LibreOffice for this reason. If you redistribute this
-repository commercially you should review that discussion and consider
-dropping these two files.
+they were removed from LibreOffice for this reason.
+
+The same dispute covers the larger kacst family in this repository. Bug #1147180
+opens by noting it "is also affected by #1041017", which is
+"fonts-kacst: unclear licensing status, possibly non-free" — the fifteen-file
+kacst directory here. Debian removed that package from unstable on 2025-10-31
+(version 2.01+mry-15+rm). Treat the two directories as one decision, not two.
 
 
 ========================================================================

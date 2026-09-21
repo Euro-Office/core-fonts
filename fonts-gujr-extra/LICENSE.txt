@@ -3,22 +3,50 @@ Gujarati Fonts (padmaa, Rekha)
 
 Files covered: padmaa.ttf, Rekha.ttf
 
+License: GNU General Public License version 2 or later
+(SPDX: GPL-2.0-or-later). Neither binary states a version; the conclusion
+follows Debian's fonts-gujr-extra copyright file, which records GPL-2.0+ for
+both padmaa and Rekha and treats the grant as covering the whole font.
+
+Read the scoping sentence below before relying on that. Both binaries carry an
+identical name record 13 which grants the GPL over the layout rules and says
+only that the glyphs are copyrighted, without granting anything over them:
+
+    The glyphs are copyrighted by Cyberscape Multimedia Ltd. The rules are
+    released Under GPL with copyright by Prof. Jitendra Shah
+
+Debian's reading (whole font under GPL-2.0+) and the record-13 reading (rules
+only) are not the same. The Cyberscape glyphs reached these fonts through the
+GPL'd bng2-n outlines that Cyberscape released, which is why distributions have
+treated the whole font as GPL; but the sentence above is what the files
+themselves say, so it is reproduced here rather than paraphrased away.
+
+padmaa.ttf
+----------
+    Glyphs (R) Cyberscape Multimedia Ltd., Bangalore, India.
+    Converted to OTF by the IndicTrans Team, Powai, Mumbai, led by
+    Prof. Jitendra Shah. Maintained by Monika Shah and Sonali Sonania of the
+    janabhaaratii Team, C-DAC, Mumbai. Released under the GPL by Dr. Alka
+    Irani and Prof. Jitendra Shah, janabhaaratii Team, C-DAC, Mumbai.
+    janabhaaratii is a localisation project at C-DAC Mumbai (formerly National
+    Centre for Software Technology), funded by TDIL, Govt. of India.
+    http://www.janabhaaratii.org.in
+
+    (This is the Macintosh-platform copyright record. The Windows-platform
+    copyright record of the same file reads only "Created by sachin with
+    PfaEdit 1.0".)
+
 Rekha.ttf
+---------
     Copyright (C) 2004-2007 MagNet Technologies Pvt. Ltd., Mumbai, India
     <team@utkarsh.org>. http://www.utkarsh.org
     Contributors: Ankur Patel, Ankit Patel, Atit Patel, Bhavin Shah,
     Kartik Mistry, Khushbu Shah, Sweta Kothari.
 
-padmaa.ttf
-    Glyphs (R) Cyberscape Multimedia Ltd., Bangalore, India.
-    Converted to OTF by the IndicTrans Team, Powai, Mumbai, led by
-    Prof. Jitendra Shah. Maintained by Monika Shah and Sonali Sonania of the
-    janabhaaratii Team, C-DAC, Mumbai. Released under the GPL by
-    Dr. Alka Irani and Prof. Jitendra Shah, janabhaaratii Team, C-DAC,
-    Mumbai. http://www.janabhaaratii.org.in
+    The file's own grant, verbatim from name record 0:
 
-License: GNU General Public License version 2 or later
-(SPDX: GPL-2.0-or-later).
+        The Rekha.ttf is free software, licensed under the terms of the GNU
+        General Public License.
 
 
 ========================================================================

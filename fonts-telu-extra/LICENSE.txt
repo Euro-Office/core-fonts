@@ -11,31 +11,74 @@ Austin, TX, USA.
 License: GNU General Public License version 2 or later, with the GNU font
 embedding exception (SPDX: GPL-2.0-or-later WITH Font-exception-2.0).
 
-The license notice carried inside the font files reads:
+The licence notice inside each font file is reproduced below exactly as it
+appears in name record 13, including the pre-2005 Free Software Foundation
+address the files still carry. (The FSF's current address is 51 Franklin
+Street, Fifth Floor, Boston, MA 02110-1301, USA; that is a change of address,
+not of licence.)
 
-    This program is free software; you can redistribute it and/or modify it
-    under the terms of the GNU General Public License as published by the
-    Free Software Foundation; either version 2 of the License, or (at your
-    option) any later version.
+Pothana2000.ttf, name record 13, verbatim
+-----------------------------------------
 
-    This program is distributed in the hope that it will be useful, but
-    WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
-    Public License for more details.
+        Pothana2000 Unicode Telugu Font
+        Copyright (C) 2000,2005  Tirumala  Krishna Desikacharylu GNU GPL V.2 or later (with Font Exception)
 
-    You should have received a copy of the GNU General Public License along
-    with this program; if not, write to the Free Software Foundation, Inc.,
-    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+        This program is free software; you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation; either version 2 of the License, or
+        (at your option) any later version.
 
-    As a special exception, if you create a document which uses this font,
-    and embed this font or unaltered portions of this font into the
-    document, this font does not by itself cause the resulting document to
-    be covered by the GNU General Public License. This exception does not
-    however invalidate any other reasons why the document might be covered
-    by the GNU General Public License. If you modify this font, you may
-    extend this exception to your version of the font, but you are not
-    obligated to do so. If you do not wish to do so, delete this exception
-    statement from your version.
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program; if not, write to the Free Software
+        Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA.
+
+    As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
+
+        You may contact the author to obtain the source code and report problem at the following address:
+
+    Dr. K.Desikachary
+    20 Goldenrod Cove
+    Winnipeg, MB
+    Canada  R2J3Z8
+
+    email: KRISHNA.DESIKACHARY@GMAIL.COM
+
+vemana2000.ttf, name record 13, verbatim
+----------------------------------------
+
+        Vemana2000 Unicode Telugu Font, Based on drawings made by Dr. Mantha Laskshmana Murthy of Austix,  USA.
+        Copyright (C) 2005  Tirumala  Krishna Desikacharylu (or K.Desikachary for short) GNU GPL V.2 or later (with Font Exception).
+
+        This program is free software; you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation; either version 2 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program; if not, write to the Free Software
+        Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+    As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
+
+
+        You may contact the author to obtain the source code and report problem at the following address:
+
+    Dr. K.Desikachary
+    20 Goldenrod Cove
+    Winnipeg, MB
+    Canada  R2J3Z8
+
+    email: sdesika@autobahn.mb.ca
 
 
 ========================================================================
