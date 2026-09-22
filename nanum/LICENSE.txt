@@ -1,13 +1,51 @@
-Copyright (c) 2010-2013, NHN Corporation (http://www.nhncorp.com),
-with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic,
-NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen,
-Naver NanumPen.
-Fonts designed by FONTRIX Inc.
+Copyright notices for the fonts in this directory, per file
+===========================================================
 
-NanumBarunGothic is a registered trademark of NHN Corporation.
+NanumMyeongjo.ttf, NanumMyeongjoBold.ttf
+    Copyright (c) 2010 NHN Corporation. All rights reserved.
+    Font designed by FONTRIX.
+    NanumMyeongjo / NanumMyeongjoBold are registered trademarks of NHN
+    Corporation.
 
-The licence text that follows is unchanged. This copyright notice was added
-so that the notice and the licence travel together, as the licence requires.
+NanumGothic.ttf, NanumGothicBold.ttf
+    Copyright (c) 2011 NHN Corporation. All rights reserved.
+    Font designed by Sandoll Communications Inc.
+    NanumGothic Regular / NanumGothicBold are registered trademarks of NHN
+    Corporation.
+
+NanumBarunGothic.ttf, NanumBarunGothicBold.ttf
+    Copyright (c) 2013 NHN Corporation. All rights reserved.
+    Font designed by FONTRIX Inc.
+    NanumBarunGothic / NanumBarunGothicBold are registered trademarks of NHN
+    Corporation.
+
+NanumSquareR.ttf, NanumSquareB.ttf
+    Copyright (c) 2016 NAVER Corporation. All rights reserved.
+    Font designed by Sandoll Communications Inc.
+    NanumSquareR / NanumSquareB are registered trademarks of Sandoll
+    Communications Inc.
+
+Reserved Font Names
+-------------------
+NHN's own OFL header, as published with the Nanum Gothic and Nanum Myeongjo
+releases, reads:
+
+    Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with
+    Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic,
+    NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush,
+    NanumPen, Naver NanumPen.
+
+That list is reproduced as NHN wrote it. It covers more families than are in
+this directory (NanumBrush and NanumPen are not shipped here) and, read
+literally, "Nanum" reserves the stem for all of them.
+
+No upstream OFL header could be located for NanumBarunGothic or for
+NanumSquare, which are NAVER releases rather than Google Fonts ones, so no
+Reserved Font Name is asserted for those four files here. If you intend to
+rename or fork them, check with NAVER rather than relying on this file.
+
+The licence text that follows is unchanged. These copyright notices were added
+so that the notices and the licence travel together, as the licence requires.
 
 ------------------------------------------------------------------------
 
