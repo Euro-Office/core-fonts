@@ -15,12 +15,24 @@ License: GNU General Public License. Upstream states no version.
 
 What the files actually say: fourteen of the fifteen binaries carry name record
 13 = "GPL" (bare, no version) and record 14 =
-http://www.gnu.org/copyleft/gpl.html, which today redirects to GPLv3.
-mry_KacstQurn.ttf carries neither record; its only statement is the copyright
-notice quoted below. No version number appears anywhere in any of the files.
+http://www.gnu.org/copyleft/gpl.html, which today redirects to GPLv3. Their
+copyright record reads:
 
     KACST holds the copyright of the included Arabic font which is donated
     under GPL by KACST.
+
+mry_KacstQurn.ttf carries no record 13 and no record 14, but its copyright
+record is the most explicit in the family — three separate GPL grants:
+
+    Copyright (C) Meor Ridzuan, meory at yahoo dot com, donated under GPL.
+    KACST holds the copyright of the included most Arabic font which is
+    donated under GPL by KACST.
+    URW Design and Development holds the copyright of the included Latin font
+    which is donated under GPL by URW.
+
+Note "most Arabic font" in that file, which differs from the wording in the
+other fourteen. No version number appears anywhere in any of the fifteen
+files.
 
 Because upstream specified no version, GPL version 2 section 9 applies:
 
