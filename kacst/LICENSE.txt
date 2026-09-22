@@ -1,54 +1,65 @@
-Gujarati Fonts (padmaa, Rekha)
-==============================
+KACST Arabic Fonts
+==================
 
-Files covered: padmaa.ttf, Rekha.ttf
+Files covered: KacstArt.ttf, KacstBook.ttf, KacstDecorative.ttf,
+KacstDigital.ttf, KacstFarsi.ttf, KacstLetter.ttf, KacstNaskh.ttf,
+KacstOffice.ttf, KacstPen.ttf, KacstPoster.ttf, KacstQurn.ttf,
+KacstScreen.ttf, KacstTitle.ttf, KacstTitleL.ttf, mry_KacstQurn.ttf
 
-License: GNU General Public License version 2 or later
-(SPDX: GPL-2.0-or-later). Neither binary states a version; the conclusion
-follows Debian's fonts-gujr-extra copyright file, which records GPL-2.0+ for
-both padmaa and Rekha and treats the grant as covering the whole font.
+Copyright 2002-2009 King Abdulaziz City for Science and Technology (KACST).
+mry_KacstQurn.ttf: Copyright (C) 2006 Meor Ridzuan Meor Yahaya; includes
+Arabic glyphs donated under the GPL by KACST and Latin glyphs donated under
+the GPL by URW Design and Development.
 
-Read the scoping sentence below before relying on that. Both binaries carry an
-identical name record 13 which grants the GPL over the layout rules and says
-only that the glyphs are copyrighted, without granting anything over them:
+License: GNU General Public License. Upstream states no version.
 
-    The glyphs are copyrighted by Cyberscape Multimedia Ltd. The rules are
-    released Under GPL with copyright by Prof. Jitendra Shah
+What the files actually say: fourteen of the fifteen binaries carry name record
+13 = "GPL" (bare, no version) and record 14 =
+http://www.gnu.org/copyleft/gpl.html, which today redirects to GPLv3. Their
+copyright record reads:
 
-Debian's reading (whole font under GPL-2.0+) and the record-13 reading (rules
-only) are not the same. The Cyberscape glyphs reached these fonts through the
-GPL'd bng2-n outlines that Cyberscape released, which is why distributions have
-treated the whole font as GPL; but the sentence above is what the files
-themselves say, so it is reproduced here rather than paraphrased away.
+    KACST holds the copyright of the included Arabic font which is donated
+    under GPL by KACST.
 
-padmaa.ttf
-----------
-    Glyphs (R) Cyberscape Multimedia Ltd., Bangalore, India.
-    Converted to OTF by the IndicTrans Team, Powai, Mumbai, led by
-    Prof. Jitendra Shah. Maintained by Monika Shah and Sonali Sonania of the
-    janabhaaratii Team, C-DAC, Mumbai. Released under the GPL by Dr. Alka
-    Irani and Prof. Jitendra Shah, janabhaaratii Team, C-DAC, Mumbai.
-    janabhaaratii is a localisation project at C-DAC Mumbai (formerly National
-    Centre for Software Technology), funded by TDIL, Govt. of India.
-    http://www.janabhaaratii.org.in
+mry_KacstQurn.ttf carries no record 13 and no record 14, but its copyright
+record is the most explicit in the family — three separate GPL grants:
 
-    (padmaa.ttf carries five copyright records. The text above is the one
-    held by the Unicode, Macintosh and Windows-English records (platform 3,
-    language 1033). The other two Windows records are stubs: language 1024
-    reads "Created by sachin with PfaEdit 1.0 (http://pfaedit.sf.net)" and
-    language 1095 reads "created by sachin".)
+    Copyright (C) Meor Ridzuan, meory at yahoo dot com, donated under GPL.
+    KACST holds the copyright of the included most Arabic font which is
+    donated under GPL by KACST.
+    URW Design and Development holds the copyright of the included Latin font
+    which is donated under GPL by URW.
 
-Rekha.ttf
----------
-    Copyright (C) 2004-2007 MagNet Technologies Pvt. Ltd., Mumbai, India
-    <team@utkarsh.org>. http://www.utkarsh.org
-    Contributors: Ankur Patel, Ankit Patel, Atit Patel, Bhavin Shah,
-    Kartik Mistry, Khushbu Shah, Sweta Kothari.
+Note "most Arabic font" in that file, which differs from the wording in the
+other fourteen. No version number appears anywhere in any of the fifteen
+files.
 
-    The file's own grant, verbatim from name record 0:
+Because upstream specified no version, GPL version 2 section 9 applies:
 
-        The Rekha.ttf is free software, licensed under the terms of the GNU
-        General Public License.
+    If the Program does not specify a version number of this License, you may
+    choose any version ever published by the Free Software Foundation.
+
+The GPL version 2 text is included below because it is the version this
+project elected when adding this file (Euro-Office, 2026). That election binds
+nobody downstream: anyone receiving these files may equally elect any other GPL
+version under the clause above. No SPDX expression is asserted here, because
+any version-pinned expression would misstate an upstream grant that is
+versionless.
+
+PLEASE READ BEFORE REDISTRIBUTING:
+Debian bug #1041017 ("fonts-kacst: unclear licensing status, possibly
+non-free", severity serious, filed 2023-07-14) covers exactly this family.
+Khaled Hosny, who prepared the last versions of these fonts, has said he is no
+longer confident of their legal status: they vanished from the KACST website,
+attempts to reach anyone connected with them failed, and they appear to be
+clones of non-free fonts. LibreOffice removed them. Debian removed the
+fonts-kacst package from unstable on 2025-10-31 (version 2.01+mry-15+rm). The
+same dispute is recorded for the two-file kacst-one family in this repository
+under bug #1147180, which explicitly notes it "is also affected by #1041017".
+If Euro-Office ships commercially, this family and kacst-one should be reviewed
+together, and dropping both is a defensible outcome.
+
+Upstream: https://www.arabeyes.org/ (Khotot project)
 
 
 ========================================================================

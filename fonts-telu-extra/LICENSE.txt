@@ -1,54 +1,96 @@
-Gujarati Fonts (padmaa, Rekha)
-==============================
+Pothana2000 and Vemana2000 Telugu Fonts
+=======================================
 
-Files covered: padmaa.ttf, Rekha.ttf
+Files covered: Pothana2000.ttf, vemana2000.ttf
 
-License: GNU General Public License version 2 or later
-(SPDX: GPL-2.0-or-later). Neither binary states a version; the conclusion
-follows Debian's fonts-gujr-extra copyright file, which records GPL-2.0+ for
-both padmaa and Rekha and treats the grant as covering the whole font.
+Copyright (C) 2000, 2005, 2006 Tirumala Krishna Desikacharyulu
+(K. Desikachary).
+Vemana2000 is based on drawings made by Dr. Mantha Lakshmana Murthy,
+Austin, TX, USA.
 
-Read the scoping sentence below before relying on that. Both binaries carry an
-identical name record 13 which grants the GPL over the layout rules and says
-only that the glyphs are copyrighted, without granting anything over them:
+License: GNU General Public License version 2 or later, with the GNU font
+embedding exception (SPDX: GPL-2.0-or-later WITH Font-exception-2.0).
 
-    The glyphs are copyrighted by Cyberscape Multimedia Ltd. The rules are
-    released Under GPL with copyright by Prof. Jitendra Shah
+The licence notice inside each font file is reproduced below exactly as it
+appears in name record 13, including the pre-2005 Free Software Foundation
+address the files still carry. (The FSF's current address is 51 Franklin
+Street, Fifth Floor, Boston, MA 02110-1301, USA; that is a change of address,
+not of licence.)
 
-Debian's reading (whole font under GPL-2.0+) and the record-13 reading (rules
-only) are not the same. The Cyberscape glyphs reached these fonts through the
-GPL'd bng2-n outlines that Cyberscape released, which is why distributions have
-treated the whole font as GPL; but the sentence above is what the files
-themselves say, so it is reproduced here rather than paraphrased away.
+Pothana2000.ttf, name record 13, verbatim
+-----------------------------------------
 
-padmaa.ttf
-----------
-    Glyphs (R) Cyberscape Multimedia Ltd., Bangalore, India.
-    Converted to OTF by the IndicTrans Team, Powai, Mumbai, led by
-    Prof. Jitendra Shah. Maintained by Monika Shah and Sonali Sonania of the
-    janabhaaratii Team, C-DAC, Mumbai. Released under the GPL by Dr. Alka
-    Irani and Prof. Jitendra Shah, janabhaaratii Team, C-DAC, Mumbai.
-    janabhaaratii is a localisation project at C-DAC Mumbai (formerly National
-    Centre for Software Technology), funded by TDIL, Govt. of India.
-    http://www.janabhaaratii.org.in
+        Pothana2000 Unicode Telugu Font
+        Copyright (C) 2000,2005  Tirumala  Krishna Desikacharylu GNU GPL V.2 or later (with Font Exception)
 
-    (padmaa.ttf carries five copyright records. The text above is the one
-    held by the Unicode, Macintosh and Windows-English records (platform 3,
-    language 1033). The other two Windows records are stubs: language 1024
-    reads "Created by sachin with PfaEdit 1.0 (http://pfaedit.sf.net)" and
-    language 1095 reads "created by sachin".)
+        This program is free software; you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation; either version 2 of the License, or
+        (at your option) any later version.
 
-Rekha.ttf
----------
-    Copyright (C) 2004-2007 MagNet Technologies Pvt. Ltd., Mumbai, India
-    <team@utkarsh.org>. http://www.utkarsh.org
-    Contributors: Ankur Patel, Ankit Patel, Atit Patel, Bhavin Shah,
-    Kartik Mistry, Khushbu Shah, Sweta Kothari.
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
 
-    The file's own grant, verbatim from name record 0:
+        You should have received a copy of the GNU General Public License
+        along with this program; if not, write to the Free Software
+        Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA.
 
-        The Rekha.ttf is free software, licensed under the terms of the GNU
-        General Public License.
+    As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
+
+        You may contact the author to obtain the source code and report problem at the following address:
+
+    Dr. K.Desikachary
+    20 Goldenrod Cove
+    Winnipeg, MB
+    Canada  R2J3Z8
+
+    email: KRISHNA.DESIKACHARY@GMAIL.COM
+
+vemana2000.ttf, name record 13, verbatim
+----------------------------------------
+
+vemana2000.ttf carries three copies of record 13. The Macintosh record
+(platform 1) and the Windows English record (platform 3, language 1033) are
+identical and are the text reproduced below. A third copy, the Windows Telugu
+record (platform 3, language 1098), differs in three small ways: its copyright
+line reads "Copyright (C) 2005 Tirumala Krishna Desikacharylu, GNU GPL V.2 or
+later (with Font Exception)" without the "(or K.Desikachary for short)" aside,
+it ends the FSF address sentence with a full stop, and it gives the author's
+contact address as krishna.desikachary@gmail.com rather than
+sdesika@autobahn.mb.ca. Neither the licence nor the exception differs between
+them. (Pothana2000.ttf carries two copies of record 13, Macintosh and Windows
+English, which are byte-identical.)
+
+        Vemana2000 Unicode Telugu Font, Based on drawings made by Dr. Mantha Laskshmana Murthy of Austix,  USA.
+        Copyright (C) 2005  Tirumala  Krishna Desikacharylu (or K.Desikachary for short) GNU GPL V.2 or later (with Font Exception).
+
+        This program is free software; you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation; either version 2 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program; if not, write to the Free Software
+        Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+    As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
+
+
+        You may contact the author to obtain the source code and report problem at the following address:
+
+    Dr. K.Desikachary
+    20 Goldenrod Cove
+    Winnipeg, MB
+    Canada  R2J3Z8
+
+    email: sdesika@autobahn.mb.ca
 
 
 ========================================================================
