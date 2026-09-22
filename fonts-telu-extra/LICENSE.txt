@@ -51,6 +51,18 @@ Pothana2000.ttf, name record 13, verbatim
 vemana2000.ttf, name record 13, verbatim
 ----------------------------------------
 
+vemana2000.ttf carries three copies of record 13. The Macintosh record
+(platform 1) and the Windows English record (platform 3, language 1033) are
+identical and are the text reproduced below. A third copy, the Windows Telugu
+record (platform 3, language 1098), differs in three small ways: its copyright
+line reads "Copyright (C) 2005 Tirumala Krishna Desikacharylu, GNU GPL V.2 or
+later (with Font Exception)" without the "(or K.Desikachary for short)" aside,
+it ends the FSF address sentence with a full stop, and it gives the author's
+contact address as krishna.desikachary@gmail.com rather than
+sdesika@autobahn.mb.ca. Neither the licence nor the exception differs between
+them. (Pothana2000.ttf carries two copies of record 13, Macintosh and Windows
+English, which are byte-identical.)
+
         Vemana2000 Unicode Telugu Font, Based on drawings made by Dr. Mantha Laskshmana Murthy of Austix,  USA.
         Copyright (C) 2005  Tirumala  Krishna Desikacharylu (or K.Desikachary for short) GNU GPL V.2 or later (with Font Exception).
 

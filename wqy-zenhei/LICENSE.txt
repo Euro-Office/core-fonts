@@ -20,6 +20,19 @@ License" with no or-later clause, so -only is the correct form here.
 GPL v2 with font embedding exception
 ------------------------------------
 
+Provenance of the text below: it is NOT in the font file. All three faces of
+wqy-zenhei.ttc carry only name record 13 = "GPL2 with font embedding exception"
+and name record 14 = http://www.gnu.org/copyleft/gpl.html; searching the whole
+.ttc for "either version 2" and "special exception", in both ASCII and
+UTF-16BE, returns nothing. The wording reproduced here is the licence paragraph
+from Debian's fonts-wqy-zenhei copyright file (stanza "License: GPL-2 with Font
+embedding exception"), which is the packaging of WenQuanYi's own COPYING. It is
+quoted because it is the fullest statement of the grant the record-13 string
+names in four words — not because the binary contains it.
+
+The "-only" reading rests on the binary, not on this text: record 13 says
+"GPL2", with no or-later clause, and Debian records the same.
+
     This font is free software; you can redistribute it and/or modify it
     under the terms of the GNU General Public License as published by the
     Free Software Foundation; either version 2 of the License.

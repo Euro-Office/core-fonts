@@ -43,26 +43,49 @@ Likhan (LikhanNormal.ttf)
     License: GPL version 2 (or later, at your option).
 
 Mukti Narrow (MuktiNarrow.ttf, MuktiNarrowBold.ttf)
-    GNU GPL (C) Mukta Bangla Font Project 2002-2003. Designed by
-    Dr Anirban Mitra.
-    "You are allowed to distribute or use this software in as many computer
-    systems as you wish, with or without modifications provided you transfer
-    these rights with the software. You are also allowed to use this
-    software in your GNU and/or commercial programs. This software is
-    distributed in good faith that it will be useful to you but WITHOUT any
-    warranty."
-    http://www.gnu.org/copyleft/gpl.htm
+    Designed by Dr Anirban Mitra for the Mukta Bangla Font Project.
 
-Ani (ani.ttf) and MitraMono (mitra.ttf)
-    (C) Dr Anirban Mitra 2002. Note that neither binary contains the string
-    "GPL": record 13 opens "GNU (C) Dr Anirban Mitra" and refers to "the GNU
-    license", and record 0 says only "Free Software".
-    "You are allowed to distribute or use this software in as many computer
-    systems as you wish, with or without modifications provided you transfer
-    these rights with the software. You are also allowed to use this
-    software in your GNU and/or commercial programs. This software is
-    distributed in good faith that it will be useful to you but WITHOUT any
-    warranty. Full text of the GNU license is available at www.gnu.org."
+    Copyright record (identical in all three of the file's copyright records):
+
+        GNU GPL © Mukta Bangla Font Project 2003 Free Software. For detail licence agreement see www.gnu.org/licences/gpl.txt
+
+    Licence record, Macintosh platform, verbatim:
+
+        GNU GPL © Mukta Bangla Font Project 2002-3. You are allowed to distribute or use this software in as many computer systems as you wish, with or without modifications provided you transfer these  rights with the software. You are also allowed to use this software in your GNU and/or commercial programs.
+        This software is distributed in good faith that it will be useful to you but WITHOUT any warranty.
+        Full text of the GNU license is available at www.gnu.org.
+
+    Licence record, Windows platform, verbatim. Note that it opens "GNU ©"
+    where the Macintosh record opens "GNU GPL ©" — the Windows record does not
+    name the GPL:
+
+        GNU © Mukta Bangla Font Project 2002-3. You are allowed to distribute or use this software in as many computer systems as you wish, with or without modifications provided you transfer these  rights with the software. You are also allowed to use this software in your GNU and/or commercial programs.
+        This software is distributed in good faith that it will be useful to you but WITHOUT any warranty.
+        Full text of the GNU license is available at www.gnu.org.
+
+Ani (ani.ttf)
+    Copyright record: "© Dr Anirban Mitra 2002 Free Software"
+
+    Licence record, verbatim (the misspelling "lso" for "also" is in the
+    original and is reproduced here unaltered):
+
+        GNU © Dr Anirban Mitra. You are allowed to distribute or use this software in as many computer systems as you wish, with or without modifications provided you transfer these  rights with the software. You are lso allowed to use this software in your GNU and/or commercial programs.
+
+        This software is distributed in good faith that it will be useful to you but WITHOUT any warranty.
+
+        Full text of the GNU license is available at www.gnu.org.
+
+MitraMono (mitra.ttf)
+    This file has no copyright record at all. Its only statement is the
+    licence record below, verbatim — note "GNU©" without a space, and the
+    closing sentence, both of which differ from ani.ttf:
+
+        GNU© Dr Anirban Mitra. You are allowed to distribute or use this software in as many computer systems as you wish, with or without modifications provided you transfer these  rights with the software. You are lso allowed to use this software in your GNU and/or commercial programs.
+        This software is distributed in good faith that it will be useful to you but WITHOUT any warranty. For details see www.gnu.org.
+
+Neither ani.ttf nor mitra.ttf contains the string "GPL" anywhere. Both grant
+rights under "GNU" and point at www.gnu.org without naming a licence, which is
+why the version election described above is needed to read them at all.
 
 
 ========================================================================

@@ -32,9 +32,11 @@ padmaa.ttf
     Centre for Software Technology), funded by TDIL, Govt. of India.
     http://www.janabhaaratii.org.in
 
-    (This is the Macintosh-platform copyright record. The Windows-platform
-    copyright record of the same file reads only "Created by sachin with
-    PfaEdit 1.0".)
+    (padmaa.ttf carries five copyright records. The text above is the one
+    held by the Unicode, Macintosh and Windows-English records (platform 3,
+    language 1033). The other two Windows records are stubs: language 1024
+    reads "Created by sachin with PfaEdit 1.0 (http://pfaedit.sf.net)" and
+    language 1095 reads "created by sachin".)
 
 Rekha.ttf
 ---------
