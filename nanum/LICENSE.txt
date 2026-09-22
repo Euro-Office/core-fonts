@@ -1,3 +1,16 @@
+Copyright (c) 2010-2013, NHN Corporation (http://www.nhncorp.com),
+with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic,
+NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen,
+Naver NanumPen.
+Fonts designed by FONTRIX Inc.
+
+NanumBarunGothic is a registered trademark of NHN Corporation.
+
+The licence text that follows is unchanged. This copyright notice was added
+so that the notice and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
 SIL OPEN FONT LICENSE
 Version 1.1 - 26 February 2007
 

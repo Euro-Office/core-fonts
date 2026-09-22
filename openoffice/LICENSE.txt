@@ -1,3 +1,15 @@
+(c) 2009 Sun Microsystems Inc.
+(c) 2011 Julien Nabet
+(c) 2011 Olivier Hallot
+(c) 2013 Mathias Hasselmann
+
+OpenSymbol, the symbol font of OpenOffice.org and LibreOffice.
+
+The licence text that follows is unchanged. This copyright notice was added
+so that the notice and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
    This Font Software is licensed under the SIL Open Font License,
    Version 1.0. No modification of the license is permitted, only
    verbatim copy is allowed. This license is copied below, and is also

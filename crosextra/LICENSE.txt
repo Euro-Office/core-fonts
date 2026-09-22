@@ -1,3 +1,14 @@
+Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic (http://www.typoland.com/),
+with Reserved Font Name "Carlito".
+Copyright (c) 2013 Google Inc.
+
+Carlito is a trademark of tyPoland Lukasz Dziedzic.
+
+The licence text that follows is unchanged. This copyright notice was added
+so that the notice and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
 SIL OPEN FONT LICENSE
 Version 1.1 - 26 February 2007
 
