@@ -1,3 +1,14 @@
+Copyright 2011-13 Lohit Fonts Project contributors
+<https://pagure.io/lohit> (formerly http://fedorahosted.org/lohit).
+Released under the OFL without a Reserved Font Name.
+
+Lohit is a trademark of Red Hat, Inc.
+
+The licence text that follows is unchanged. This copyright notice was added
+so that the notice and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
 SIL OPEN FONT LICENSE
 Version 1.1 - 26 February 2007
 

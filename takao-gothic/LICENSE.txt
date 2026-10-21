@@ -1,3 +1,26 @@
+Copyright notices for the fonts in this directory, per file
+===========================================================
+
+TakaoGothic.ttf, TakaoPGothic.ttf
+    Copyright (c) Information-technology Promotion Agency, Japan (IPA),
+    2003-2011.
+    Copyright (c) Takao Fonts Maintainers Team, 2010-2015.
+
+TakaoExGothic.ttf
+    Copyright (c) Information-technology Promotion Agency, Japan (IPA),
+    2003-2009.
+    This file carries no Takao Fonts Maintainers Team copyright; it is the
+    older IPA-only font and its year range ends two years earlier than the
+    other two.
+
+All three files state: you must accept the IPA Font License Agreement v1.0
+(http://ipafont.ipa.go.jp/ipa_font_license_v1.html) to use these fonts.
+
+The licence text that follows is unchanged. These copyright notices were added
+so that the notices and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
 --------------------------------------------------
 IPA Font License Agreement v1.0 <Japanese/English>
 --------------------------------------------------

@@ -1,3 +1,13 @@
+Copyright 2010, 2011 Canonical Ltd.
+Licensed under the Ubuntu Font Licence 1.0.
+
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+The licence text that follows is unchanged. This copyright notice was added
+so that the notice and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
 -------------------------------
 UBUNTU FONT LICENCE Version 1.0
 -------------------------------

@@ -1,3 +1,13 @@
+Copyright 2014-2020 Adobe (http://www.adobe.com/),
+with Reserved Font Name 'Source'.
+
+Noto is a trademark of Google Inc.
+
+The licence text that follows is unchanged. This copyright notice was added
+so that the notice and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL

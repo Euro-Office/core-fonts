@@ -1,3 +1,17 @@
+Copyright 2013, 2014 Google Inc. All Rights Reserved.
+
+    NotoNaskhArabic-Regular.ttf, NotoNaskhArabic-Bold.ttf      2014
+    NotoNaskhArabicUI-Regular.ttf, NotoNaskhArabicUI-Bold.ttf  2013
+
+Released under the OFL without a Reserved Font Name.
+
+Noto is a trademark of Google Inc.
+
+The licence text that follows is unchanged. This copyright notice was added
+so that the notice and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1.
 

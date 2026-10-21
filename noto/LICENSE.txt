@@ -1,3 +1,15 @@
+Copyright 2012, 2013, 2016, 2017 Google Inc. All Rights Reserved.
+(The files in this directory carry copyright years 2012, 2013, 2016 and 2017;
+see each font's own copyright record for the exact year.)
+The Noto fonts are released under the OFL without a Reserved Font Name.
+
+Noto is a trademark of Google Inc.
+
+The licence text that follows is unchanged. This copyright notice was added
+so that the notice and the licence travel together, as the licence requires.
+
+------------------------------------------------------------------------
+
 SIL OPEN FONT LICENSE
 Version 1.1 - 26 February 2007
 
